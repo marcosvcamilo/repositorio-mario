@@ -1,7 +1,25 @@
 # <h1 align="center">Super Mario</h1>
-![foto projeto Mario editada pronta](https://user-images.githubusercontent.com/123949688/215905714-7413e11a-b18c-460a-9846-81603c2d2042.png)
 
+## Project under Development
 
- <img class="mario c" src="C:\Users\sabri\OneDrive\Ambiente de Trabalho\carioca vini\fotos.pg"/>
+![mario](https://user-images.githubusercontent.com/123949688/215907402-07178693-ad17-477c-b384-18bbba7e695e.png)
+
+## Technology
+
+Here esta the technologies used in this project.
+<ul>
+<li>HTML<li>
+ CSS
+ 
+ ## Services Used
+ 
+ <ul>
+  <li> Github
+   
+   ## How to use 
+   
+   ### 1- when you acces the project, you will see this initial
+   ![homepage image).
+ 
 
 
